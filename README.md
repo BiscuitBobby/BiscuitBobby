@@ -1,20 +1,15 @@
 ### Hello there
 
-# 💫 About Me:
+# About Me:
 Currently an undergrade studying AI <br>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div>
-  <table>
-    <tr>
-      <td>
+  <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=BiscuitBobby&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="GitHub Stats">
-      </td>
-      <td>
+  <p></p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiscuitBobby&amp;theme=radical&amp;hide_border=false" alt="GitHub Streak">
-      </td>
-      </tr>
-  </table>
+  </p>
   
   <div align="center">
   <br>
