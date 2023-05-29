@@ -7,15 +7,10 @@ Currently an undergrade studying AI <br>
 <div>
   <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=BiscuitBobby&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="GitHub Stats">
-  <p></p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiscuitBobby&amp;theme=radical&amp;hide_border=false" alt="GitHub Streak">
-  </p>
-  
-  <div align="center">
-  <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiscuitBobby&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="Top Languages">
-  <br>
-  </div>
+  </p>
+ </div>
   
 </div>
   <div>
