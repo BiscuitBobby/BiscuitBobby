@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Siddharth Menon<br><br><br> Currently an Udergraduate in Computer science specialize in AI.<br>At present, I am trying to get a feel for as many areas as I can and have experience with:<br><br>    • Mobile development: Flutter<br>    • Web development: WASM, flutter mobile, js frameworks like node.js<br>    • Desktop app development: Pyqt framework, Flutter desktop, Pygame, Tkinter<br>    • Backend development: Django, Flask, node.js, Firebase, AWS<br><br>Programming languages I use: Python, Java, C++, Js, Rust, Dart
+<br> Currently an Udergraduate in Computer science specialize in AI.<br>At present, I am trying to get a feel for as many areas as I can and have experience with:<br><br>    • Mobile development: Flutter<br>    • Web development: WASM, flutter mobile, js frameworks like node.js<br>    • Desktop app development: Pyqt framework, Flutter desktop, Pygame, Tkinter<br>    • Backend development: Django, Flask, node.js, Firebase, AWS<br><br>Programming languages I use: Python, Java, C++, Js, Rust, Dart
 
 
 ## 🌐 Socials:
