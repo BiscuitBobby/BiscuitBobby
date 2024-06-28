@@ -1,8 +1,8 @@
 # About Me:
 <br> Currently an Udergraduate in Computer science specialize in AI.<br>I like to explore and get a feel for anything that sounds interesting.<br>
-<br> ![imma-bee-bee](https://user-images.githubusercontent.com/87699062/206778100-6833af6d-df9c-469b-a86a-cb1a9301d784.gif) <br>
 • Novice kernel dev<br>    • Mostly work with with backends and depoyment<br>    • Linux fanboy
 
+<br> ![imma-bee-bee](https://user-images.githubusercontent.com/87699062/206778100-6833af6d-df9c-469b-a86a-cb1a9301d784.gif) <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BiscuitBobby#6927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BiscuitBobby) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BiscuitBobby) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Biscuit_Bobby) 
