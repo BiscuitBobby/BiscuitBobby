@@ -1,5 +1,7 @@
 # About Me:
-<br> Currently an Udergraduate in Computer science specialize in AI.<br>I like to explore and get a feel for anything that sounds interesting.<br><br>    • Novice kernel dev<br>    • Mostly work with with backends and depoyment<br>    • Linux fanboy
+<br> Currently an Udergraduate in Computer science specialize in AI.<br>I like to explore and get a feel for anything that sounds interesting.<br>
+<br> ![imma-bee-bee](https://user-images.githubusercontent.com/87699062/206778100-6833af6d-df9c-469b-a86a-cb1a9301d784.gif) <br>
+• Novice kernel dev<br>    • Mostly work with with backends and depoyment<br>    • Linux fanboy
 
 
 ## 🌐 Socials:
