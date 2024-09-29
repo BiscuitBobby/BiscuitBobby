@@ -1,5 +1,5 @@
 # About Me:
-<br> Currently persuing an Undergrad Computer science degree specializing in AI.<br>I like to explore and get a feel for anything that sounds interesting.<br>Mostly work with with backends and deployment.
+<br> Currently persuing an undergrad degree in Computer Science, specializing in Artificial Intelligence.<br>I like to explore and get a feel for anything that sounds interesting.<br>Mostly work with with backends and deployment.
 
 <br> ![imma-bee-bee](https://user-images.githubusercontent.com/87699062/206778100-6833af6d-df9c-469b-a86a-cb1a9301d784.gif) <br>
 
