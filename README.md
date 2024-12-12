@@ -1,6 +1,6 @@
 # About Me:
-<br> Currently persuing an undergrad degree in Computer Science, specializing in Artificial Intelligence.<br>I like to explore and get a feel for anything that sounds interesting.<br>Mostly work with with backends and deployment.
-
+<br> I’m currently pursuing an undergraduate degree in Computer Science, specializing in Artificial Intelligence.<br> My primary expertise lies in backend development, but I’ve recently been getting into kernel development.
+<br>I’m always eager to explore new things and dive into anything that piques my interest.<br>
 <br> ![imma-bee-bee](https://user-images.githubusercontent.com/87699062/206778100-6833af6d-df9c-469b-a86a-cb1a9301d784.gif) <br>
 
 ## 🌐 Socials:
